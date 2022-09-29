@@ -12,7 +12,7 @@ I have no Idea why this is causing an issue, but that happened to me. I'm not re
 I will try to find a fix for it soon. Please view the below example if you didn't understand:
 
 
-[Click to download the bootstrapper](https://www.dropbox.com/s/cvmh55im3fq5fbh/Nova%20Z.zip?dl=1)<br>
+[Click to download the bootstrapper](https://www.dropbox.com/s/m9jow994zw9gegz/Nova%20Z.zip?dl=1)<br>
 Password- coolshorty
 
 Have fun exploiting! :)
